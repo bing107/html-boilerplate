@@ -1,0 +1,19 @@
+{
+  "name": "html-boilerplate",
+  "version": "1.0.0",
+  "description": "No frills boilerplate for simple html web projects ( almost no frills :p )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bing107/html-boilerplate.git"
+  },
+  "author": "hassan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bing107/html-boilerplate/issues"
+  },
+  "homepage": "https://github.com/bing107/html-boilerplate#readme"
+}
